@@ -41,6 +41,7 @@ public class CommonLibrary {
 //		launchBrowser(browser);
 		log.info("From setUp method...");
 		
+		
 		if (browser.equals("chrome")) {
 //		case "chrome":
 			WebDriverManager.chromedriver().setup();

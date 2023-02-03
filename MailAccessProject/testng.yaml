@@ -1,0 +1,10 @@
+name: Suite
+configFailurePolicy: skip
+listeners:
+  - com.test.MailAccess.utilities.TestListeners
+tests:
+  - name: Test
+  classes:
+    - com.test.MailAccess.tests.TC_LoginTest_Outlook_001
+    - com.test.MailAccess.tests.TC_LoginTest_NOPCOM_001
+

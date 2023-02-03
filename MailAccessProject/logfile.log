@@ -1,0 +1,67 @@
+[2023-01-31 22:41:29.029 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:41:29.029 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:41:29.029 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:41:29.029 IST] INFO  org.testng.log4testng.Logger.info:112 - [TestNG] Running:
+  G:\Recovered\Downloads\Softwares\Eclipse\Workspaces\Test2\MailAccessProject\testng.xml
+
+[2023-01-31 22:41:29.029 IST] INFO  com.test.MailAccess.common.CommonLibrary.setUp:44 - From setUp method...
+[2023-01-31 22:41:29.029 IST] INFO  com.test.MailAccess.common.CommonLibrary.setUp:44 - From setUp method...
+[2023-01-31 22:41:29.029 IST] INFO  com.test.MailAccess.common.CommonLibrary.setUp:44 - From setUp method...
+[2023-01-31 22:41:32.032 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:41:32.032 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestSkipped:89 - Test loginTest Skipped
+[2023-01-31 22:41:32.032 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:41:32.032 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestSkipped:89 - Test loginTest Skipped
+[2023-01-31 22:41:32.032 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:41:32.032 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestSkipped:89 - Test loginTest Skipped
+[2023-01-31 22:41:32.032 IST] INFO  io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion:1238 - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+[2023-01-31 22:41:32.032 IST] INFO  io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion:1238 - Using msedgedriver 109.0.1518.70 (resolved driver for Edge 109)
+[2023-01-31 22:41:33.033 IST] INFO  io.github.bonigarcia.wdm.WebDriverManager.logSeekRepo:1583 - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2023-01-31 22:41:33.033 IST] INFO  io.github.bonigarcia.wdm.WebDriverManager.exportDriver:1291 - Exporting webdriver.chrome.driver as C:\Users\Abi\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+[2023-01-31 22:41:33.033 IST] INFO  io.github.bonigarcia.wdm.online.Downloader.downloadAndExtract:127 - Downloading https://msedgedriver.azureedge.net/109.0.1518.70/edgedriver_win64.zip
+[2023-01-31 22:41:34.034 IST] INFO  io.github.bonigarcia.wdm.online.Downloader.extract:188 - Extracting driver from compressed file edgedriver_win64.zip
+[2023-01-31 22:41:35.035 IST] INFO  io.github.bonigarcia.wdm.WebDriverManager.exportDriver:1291 - Exporting webdriver.edge.driver as C:\Users\Abi\.cache\selenium\msedgedriver\win64\109.0.1518.70\msedgedriver.exe
+[2023-01-31 22:41:41.041 IST] INFO  com.test.MailAccess.common.CommonLibrary.setUp:51 - Chrome browser launched...
+[2023-01-31 22:41:42.042 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:41:42.042 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:41:52.052 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.loginTest:47 - Entering Username...
+[2023-01-31 22:41:52.052 IST] INFO  com.test.MailAccess.common.CommonLibrary.clearAndEnterText:167 - Text entered...
+[2023-01-31 22:41:55.055 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.loginTest:52 - Entering Password...
+[2023-01-31 22:41:55.055 IST] INFO  com.test.MailAccess.common.CommonLibrary.clearAndEnterText:167 - Text entered...
+[2023-01-31 22:42:18.018 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.loginTest:61 - Checking account name...
+[2023-01-31 22:42:20.020 IST] INFO  com.test.MailAccess.utilities.TestListeners.takeScreenshot:114 - Screenshot stored at: G:\Recovered\Downloads\Softwares\Eclipse\Workspaces\Test2\MailAccessProject/screenshots/loginTest_31-01-2023_22.42.19.png
+[2023-01-31 22:42:20.020 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestFailure:80 - Test loginTest Failed
+[2023-01-31 22:42:20.020 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:42:20.020 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:42:38.038 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:42:38.038 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:42:56.056 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.loginTest:47 - Entering Username...
+[2023-01-31 22:43:07.007 IST] INFO  com.test.MailAccess.utilities.TestListeners.takeScreenshot:114 - Screenshot stored at: G:\Recovered\Downloads\Softwares\Eclipse\Workspaces\Test2\MailAccessProject/screenshots/loginTest_31-01-2023_22.43.06.png
+[2023-01-31 22:43:07.007 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestFailure:80 - Test loginTest Failed
+[2023-01-31 22:43:07.007 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:43:07.007 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:43:21.021 IST] INFO  com.test.MailAccess.utilities.TestListeners.takeScreenshot:114 - Screenshot stored at: G:\Recovered\Downloads\Softwares\Eclipse\Workspaces\Test2\MailAccessProject/screenshots/loginTest_31-01-2023_22.43.20.png
+[2023-01-31 22:43:21.021 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestFailure:80 - Test loginTest Failed
+[2023-01-31 22:43:21.021 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:43:21.021 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:43:39.039 IST] INFO  com.test.MailAccess.utilities.TestListeners.takeScreenshot:114 - Screenshot stored at: G:\Recovered\Downloads\Softwares\Eclipse\Workspaces\Test2\MailAccessProject/screenshots/loginTest_31-01-2023_22.43.38.png
+[2023-01-31 22:43:39.039 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestFailure:80 - Test loginTest Failed
+[2023-01-31 22:43:39.039 IST] WARN  org.asynchttpclient.netty.handler.WebSocketHandler.handleException:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:345)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:376)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+[2023-01-31 22:44:11.011 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestFailure:80 - Test loginTest Failed
+[2023-01-31 22:44:11.011 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestStart:44 - In Test Class-'com.test.MailAccess.tests.TC_LoginTest_Outlook_001', Testcase-'loginTest' started...
+[2023-01-31 22:44:11.011 IST] INFO  com.test.MailAccess.tests.TC_LoginTest_Outlook_001.<init>:32 - Initialization completed.
+[2023-01-31 22:44:11.011 IST] INFO  com.test.MailAccess.utilities.TestListeners.onTestFailure:80 - Test loginTest Failed
